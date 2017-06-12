@@ -1,6 +1,6 @@
 
 
-Send and Receive SMS from SharePoint using Plivo
+Using Plivo with SharePoint to Send and Receive SMS 
 ============================================================================
 
 SMS Gateway Connector (SMS Via SharePoint List) - CSOM Extensions!
